@@ -1,5 +1,5 @@
 # mf
-Try setup microfrontends on webpack module federation
+Try setup microfrontends on webpack module federation\
 Added 3 apps:
   - Vanilla js
   - React
